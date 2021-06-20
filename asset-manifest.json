@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yhoakim.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/yhoakim.github.io/static/js/main.ee27e7b0.chunk.js",
+    "main.js.map": "/yhoakim.github.io/static/js/main.ee27e7b0.chunk.js.map",
+    "runtime-main.js": "/yhoakim.github.io/static/js/runtime-main.4e9ba3bc.js",
+    "runtime-main.js.map": "/yhoakim.github.io/static/js/runtime-main.4e9ba3bc.js.map",
+    "static/js/2.f7123ad0.chunk.js": "/yhoakim.github.io/static/js/2.f7123ad0.chunk.js",
+    "static/js/2.f7123ad0.chunk.js.map": "/yhoakim.github.io/static/js/2.f7123ad0.chunk.js.map",
+    "static/js/3.629e1625.chunk.js": "/yhoakim.github.io/static/js/3.629e1625.chunk.js",
+    "static/js/3.629e1625.chunk.js.map": "/yhoakim.github.io/static/js/3.629e1625.chunk.js.map",
+    "index.html": "/yhoakim.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/yhoakim.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f7123ad0.chunk.js.LICENSE.txt": "/yhoakim.github.io/static/js/2.f7123ad0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yhoakim.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e9ba3bc.js",
+    "static/js/2.f7123ad0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ee27e7b0.chunk.js"
+  ]
+}
